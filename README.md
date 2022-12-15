@@ -1,9 +1,9 @@
 # Huananzhi X99-F8 + Xeon E5-2680 v4 + RX 6600 XT + Fenvi BCM94360NG
 
-![Captura de Tela 2022-12-13 às 12 52 06](https://user-images.githubusercontent.com/120476538/207381571-66c6a809-64d4-4814-9a91-67f5446f9ccd.png)
+![Captura de Tela 2022-12-15 às 10 32 50](https://user-images.githubusercontent.com/120476538/207876445-2bf7e789-35ef-4d65-a2cd-f478c5a8f879.png)
 
 
-**Latest working macOS**: 13.0.1
+**Latest working macOS**: 13.1
 <br>
 **Current OpenCore**: 0.8.7
 
