@@ -3,7 +3,7 @@
 ![Captura de Tela 2022-12-13 às 12 52 06](https://user-images.githubusercontent.com/120476538/207381571-66c6a809-64d4-4814-9a91-67f5446f9ccd.png)
 
 
-**Latest working macOS**: 13.1
+**Latest working macOS**: 13.0.1
 <br>
 **Current OpenCore**: 0.8.7
 
