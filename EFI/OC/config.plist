@@ -499,12 +499,12 @@
 			<integer>0</integer>
 			<key>AuthRestart</key>
 			<false/>
+			<key>EnablePassword</key>
+			<false/>
 			<key>BlacklistAppleUpdate</key>
 			<true/>
 			<key>DmgLoading</key>
 			<string>Signed</string>
-			<key>EnablePassword</key>
-			<false/>
 			<key>ExposeSensitiveData</key>
 			<integer>15</integer>
 			<key>HaltLevel</key>
@@ -516,7 +516,7 @@
 			<key>ScanPolicy</key>
 			<integer>2687747</integer>
 			<key>SecureBootModel</key>
-			<string>Disabled</string>
+			<string>Default</string>
 			<key>Vault</key>
 			<string>Optional</string>
 		</dict>
@@ -578,7 +578,7 @@
 				<key>boot-args</key>
 				<string>alcid=7 npci=0x2000 watchdog=0 agdpmod=pikera</string>
 				<key>csr-active-config</key>
-				<data>/w8AAA==</data>
+				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
 				<data></data>
 				<key>run-efi-updater</key>

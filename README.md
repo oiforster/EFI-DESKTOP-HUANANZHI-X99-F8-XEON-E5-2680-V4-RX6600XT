@@ -2,7 +2,7 @@
 
 ![about-12 3 1](https://user-images.githubusercontent.com/23700365/161353027-9aaeddf5-7457-49a8-b322-4e99ab94c679.png)
 
-**Latest working macOS**: 13.0.1
+**Latest working macOS**: 13.1
 <br>
 **Current OpenCore**: 0.8.7
 
